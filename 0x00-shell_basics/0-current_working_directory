@@ -1,2 +1,7 @@
-#!/bin/bash
-pwd
+[master fb65cb4] Task 0
+ 5 files changed, 3 insertions(+)
+ create mode 100755 0x00-shell_basics/#0-current_working_directory#
+ create mode 120000 0x00-shell_basics/.#0-current_working_directory
+ create mode 100644 0x00-shell_basics/.0-current_working_directory.swp
+ create mode 100644 0x00-shell_basics/.swp
+ mode change 100644 => 100755 0x00-shell_basics/0-current_working_directory
