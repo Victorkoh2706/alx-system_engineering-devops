@@ -1,1 +1,2 @@
-My 0 shell redirections task
+a script that displays a confused smiley "(Ôo)'.
+
