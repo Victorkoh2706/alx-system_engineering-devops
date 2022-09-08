@@ -1,1 +1,1 @@
-complicated file
+scrip that redirect an output
